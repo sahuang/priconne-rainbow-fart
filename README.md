@@ -30,7 +30,7 @@ Languages: 简体中文 | [English](./README.en.md)
 
 导入本语音包请参考 `vscode-rainbow-fart` 的 [官方教程](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/README.md).
 
-本项目已经打包好了相关zip文件，可以直接在 [Releases](https://github.com/sahuang/priconne-rainbow-fart/releases) 中下载最新版 zip.
+本项目已经打包好了相关 [zip文件](https://puu.sh/FZcWM/a2f2b6216e.zip)，可以直接在 [Releases](https://github.com/sahuang/priconne-rainbow-fart/releases) 中下载最新版 zip.
 
 在本地 vscode 启动的 rainbow-fart 配置页面中 `Settings` -> `Voice Packages` -> `Import` 中导入 zip，导入后 enable 开启使用.
 
