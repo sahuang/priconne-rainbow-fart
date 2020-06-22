@@ -1,0 +1,201 @@
+{
+    "name": "Priconne",
+    "display-name": "Princess Connect! Re:Dive",
+    "avatar": "light_pcr.png",
+    "avatar-dark": "dark_pcr.jpg",
+    "version": "0.1.0",
+    "description": "VSCode 公主连结语音包扩展",
+    "author": "sahuang",
+    "gender": "female",
+    "locale": "jp",
+    "languages": [
+        "C++",
+        "Python"
+      ],
+    "contributes": [
+      {
+        "keywords": [
+          "import",
+          "include"
+        ],
+        "voices": [
+          "import_01.mp3",
+          "import_02.mp3",
+          "import_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "break",
+          "continue"
+        ],
+        "voices": [
+          "status_01.mp3",
+          "status_02.mp3",
+          "status_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "if",
+          "else",
+          "elif"
+        ],
+        "voices": [
+          "if_01.mp3",
+          "if_02.mp3",
+          "if_03.mp3",
+          "if_04.mp3",
+          "if_05.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "for",
+          "while"
+        ],
+        "voices": [
+          "for_01.mp3",
+          "for_02.mp3",
+          "for_03.mp3",
+          "for_04.mp3",
+          "for_05.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "const_cast",
+          "static_cast",
+          "reinterpret_cast"
+        ],
+        "voices": [
+          "cast_01.mp3",
+          "cast_02.mp3",
+          "cast_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "volatile",
+          "inline",
+          "namespace",
+          "template"
+        ],
+        "voices": [
+          "cpp_01.mp3",
+          "cpp_02.mp3",
+          "cpp_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "await",
+          "async"
+        ],
+        "voices": [
+          "await_01.mp3",
+          "await_02.mp3",
+          "await_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "catch",
+          "try",
+          "except",
+          "finally"
+        ],
+        "voices": [
+          "catch_01.mp3",
+          "catch_02.mp3",
+          "catch_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "def",
+          "main"
+        ],
+        "voices": [
+          "main_01.mp3",
+          "main_02.mp3",
+          "main_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "and",
+          "not",
+          "or"
+        ],
+        "voices": [
+          "and_01.mp3",
+          "and_02.mp3",
+          "and_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_morning"
+        ],
+        "voices": [
+          "time_morning_01.mp3",
+          "time_morning_02.mp3",
+          "time_morning_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_before_noon"
+        ],
+        "voices": [
+          "time_before_noon_01.mp3",
+          "time_before_noon_02.mp3",
+          "time_before_noon_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_noon"
+        ],
+        "voices": [
+          "time_noon_01.mp3",
+          "time_noon_02.mp3",
+          "time_noon_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_evening"
+        ],
+        "voices": [
+          "time_evening_01.mp3",
+          "time_evening_02.mp3",
+          "time_evening_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_midnight"
+        ],
+        "voices": [
+          "time_midnight_01.mp3",
+          "time_midnight_02.mp3",
+          "time_midnight_03.mp3"
+        ]
+      },
+      {
+        "keywords": [
+          "$time_each_hour"
+        ],
+        "voices": [
+          "time_each_hour_01.mp3",
+          "time_each_hour_02.mp3",
+          "time_each_hour_03.mp3",
+          "time_each_hour_04.mp3",
+          "time_each_hour_05.mp3",
+          "time_each_hour_06.mp3"
+        ]
+      }
+    ]
+  }
