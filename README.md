@@ -26,6 +26,8 @@ Languages: 简体中文 | [English](./README.en.md)
 
 ![priconne](./preview/dark.png)
 
+**插件本体效果demo：** <https://www.bilibili.com/video/BV1ez4y1Q7WW/>
+
 ## Install
 
 导入本语音包请参考 `vscode-rainbow-fart` 的 [官方教程](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/README.md).

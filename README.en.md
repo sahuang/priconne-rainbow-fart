@@ -12,6 +12,8 @@ Come and listen to waifu's voice when writing code!
 
 ![priconne](./preview/dark.png)
 
+**Voice Pack Demo：** <https://www.bilibili.com/video/BV1ez4y1Q7WW/>
+
 ## Install
 
 Refer to [official guide](https://saekiraku.github.io/vscode-rainbow-fart/#/zh/README.md) from `vscode-rainbow-fart`.
