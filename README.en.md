@@ -22,7 +22,7 @@ In rainbow-fart configuration page from local VSCode, go to `Settings` -> `Voice
 
 ## Others
 
-Thanks to SaekiRaku for the awesome plugin.
+Thanks to SaekiRaku for the awesome plugin. Note that the keywords for this voice pack are mostly designed for C/C++/Python programs.
 
 v0.1.0 of this package contains voices for 60 characters（1001-1060), including most of Priconne Chinese Server characters. More to come. You are more than welcome to give advise on other vocal packs to add or any other suggestions.
 

@@ -38,8 +38,7 @@
       {
         "keywords": [
           "if",
-          "else",
-          "elif"
+          "else"
         ],
         "voices": [
           "if_01.mp3",
@@ -125,8 +124,7 @@
       {
         "keywords": [
           "and",
-          "not",
-          "or"
+          "not"
         ],
         "voices": [
           "and_01.mp3",
